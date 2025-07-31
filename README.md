@@ -2,6 +2,6 @@
 A collection of publicly accessible LinkedIn data on tech professionals, curated during my VC internship. Excludes all personally identifiable information (PII) including emails, phone numbers, or private details.
 
 文件命名格式：  
-[公司名]_[数据量].xlsx  
+[公司名]\_[数据量].xlsx  
 File Name Format:  
-[Name of Company]_[Pieces of Data].xlsx
+[Name of Company]\_[Pieces of Data].xlsx
